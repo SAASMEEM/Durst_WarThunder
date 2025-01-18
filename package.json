@@ -12,7 +12,7 @@
 	"dependencies": {
 		"@discordjs/voice": "^0.16.1",
 		"discord.js": "^14.11.0",
-		"dotenv": "^16.4.1",
+		"dotenv": "^16.4.5",
 		"jsdom": "^24.0.0",
 		"node-bash-title": "^0.0.2",
 		"node-fetch": "^3.3.2",
